@@ -24,6 +24,9 @@ The Job Analysis Project involves analyzing job data from a JSON file, implement
 
 6. **Error Handling**: Ensure the application handles incomplete or incorrect data gracefully, providing informative error messages without crashing.
 
+![Error](Examples/error.png)
+
+
 7. **Interactive Job Details**: Users can click on each job listing to view more detailed information about the job, including attributes such as title, type, level, skill, and detail. This ensures users can easily access all relevant information for a given job.
 
 ![Details](Examples/details.png)
